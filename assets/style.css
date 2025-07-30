@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+
+root {
+    --ferst-color: #17151E;
+    --secend-color: #1F1D28;
+    --filter-color: #2A2933;
+    --yello-color: #F6B828;
+    --text-color: #C3C6D9;
+}
+
+a {
+    color: #FFFFFF;
+}
